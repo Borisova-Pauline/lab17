@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Some implements Serializable {
     double x;
-    double y = 0;
+    double y;
 
     public Some() {
         Scanner sc = new Scanner(System.in);
